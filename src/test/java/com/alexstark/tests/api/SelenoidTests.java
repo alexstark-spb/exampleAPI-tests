@@ -1,4 +1,4 @@
-package com.alexstark;
+package com.alexstark.tests.api;
 
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
